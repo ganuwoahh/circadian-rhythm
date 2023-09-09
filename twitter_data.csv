@@ -1,0 +1,939 @@
+﻿Name,Age,Location,lastday_tweet(time),nxtday_tweet(time),Screen time,Time btw,day,Profession,Month
+MCKAY,59,,20.35.19,7.35.24,1.4,9.5,Weekend,Retired,Jul
+MCCLAIN,22,,23.36.55,9.11.10,2.5,8,Weekend,Athlete,Nov
+FORD,23,,21.05.27,6.50.01,4.25,6,Weekdays,Streamer,Apr
+SAVAGE,28,,23.33.43,8.27.54,3.25,7.5,Weekdays,Cab Driver,Nov
+NAVA,56,,20.33.13,6.44.00,2.8,8,Weekdays,Retired,Nov
+AVILA,31,,22.52.44,8.05.06,3,6,Weekdays,Professor,Sep
+KELLER,23,,22.51.38,8.04.05,3.6,6,Weekdays,Streamer,Sep
+SHORT,49,,21.55.39,7.00.03,2,8,Weekend,Professor,May
+BAUER,52,,21.45.17,6.30.59,2.2,8.5,Weekend,Retired,Apr
+REYES,20,Boise,21.30.08,6.30.31,4,7.5,Weekdays,Streamer,Feb
+HUDSON,27,,21.06.44,6.58.20,3.5,8.5,Weekend,Professor,May
+SPEARS,55,,21.50.55,7.30.45,2.7,9.5,Weekend,Retired,Mar
+LAM,32,California,23.19.20,8.20.47,2.6,7.5,Weekend,Professor,Mar
+STEELE,23,,23.23.32,8.22.46,2.6,6.5,Weekdays,Streamer,Jul
+ROSE,27,,21.06.07,6.54.01,3.5,9,Weekend,Professor,Apr
+DURHAM,41,,21.47.45,6.58.00,2.5,8,Weekend,Professor,Aug
+HODGE,23,,23.29.01,8.22.25,3.6,9,Weekend,Streamer,Jul
+DILLON,18,,23.33.01,8.27.05,3.5,8,Weekend,Streamer,Sep
+PRICE,22,,21.30.39,6.41.11,4.5,7.5,Weekdays,Streamer,Jun
+DANIELS,23,,21.06.17,6.55.11,6,8,Weekdays,Streamer,Aug
+ESPARZA,42,,21.49.45,6.31.39,2.1,7,Weekend,Professor,Jan
+WARNER,23,,0.01.13,8.39.07,4.5,7,Weekend,Streamer,Sep
+ARIAS,43,,21.55.41,7.00.06,2.5,7.5,Weekdays,Cab Driver,May
+TODD,25,,1.02.10,8.39.27,2.4,7.2,Weekdays,Athlete,Apr
+LYNN,59,,20.19.01,6.19.00,0.5,10,Weekend,Retired,Feb
+BERNAL,64,,20.33.07,6.42.00,2.7,7.5,Weekdays,Retired,Jul
+THORNTON,21,,0.01.07,8.37.05,3.25,6.75,Weekdays,Streamer,Mar
+WISE,28,,1.26.38,9.22.05,6,6,Weekend,Cab Driver,Aug
+HULL,37,,21.49.00,6.25.48,2.6,8,Weekend,Professor,Jan
+CUEVAS,47,,21.47.35,6.56.00,2.6,8,Weekend,Professor,Jun
+SINGH,29,,22.22.36,7.24.08,3.25,7,Weekend,Professor,Dec
+HAMMOND,30,,1.22.34,9.21.29,4.5,6.25,Weekdays,Professor,Jul
+WALLACE,20,Nevada,23.18.19,7.53.12,3,9,Weekend,Streamer,Dec
+HORN,30,,23.30.13,8.23.49,4.7,7,Weekdays,Streamer,Nov
+GLOVER,21,,1.42.54,9.24.29,4,6,Weekdays,Streamer,Jul
+RUSH,64,,20.32.43,6.34.00,2.4,8,Weekend,Retired,Dec
+FRYE,26,,21.30.52,8.32.48,3.5,7,Weekdays,Cab Driver,Apr
+JIMENEZ,26,Georgia,21.30.48,6.41.38,3.25,7,Weekdays,Cab Driver,Oct
+MATHEWS,27,Little Rock,23.31.01,8.24.45,3,6.5,Weekdays,Professor,Sep
+OLIVER,18,,22.34.56,7.28.12,4.5,7,Weekdays,Streamer,Apr
+DONALDSON,26,,22.34.56,9.19.18,4.3,5.5,Weekdays,Professor,May
+SHELTON,27,,23.20.21,8.21.29,4.6,6,Weekend,Cab Driver,Apr
+BARKER,25,,23.23.37,8.23.21,3.6,7.25,Weekend,Professor,Jul
+CRAWFORD,23,,21.05.46,6.51.34,4.25,8.5,Weekend,Streamer,Mar
+MCGEE,21,,0.50.49,8.40.37,4,6.75,Weekdays,Streamer,Jul
+COSTA,57,,20.33.01,7.03.00,1.5,9.5,Weekend,Cab Driver,Dec
+GAINES,45,,21.47.25,7.47.00,2.4,10,Weekend,Retired,Dec
+BARRERA,48,,21.55.33,7.03.00,2.6,9,Weekend,Professor,Dec
+WALSH,20,,22.27.26,7.59.43,4.25,8,Weekend,Cab Driver,May
+DAVILA,39,,21.46.20,6.41.00,2.1,7.5,Weekdays,Cab Driver,Dec
+ESTRADA,25,Little Rock,21.50.10,7.01.08,3,6.25,Weekend,Cab Driver,Dec
+GREGORY,18,,23.15.16,8.20.54,4,6.25,Weekend,Streamer,Aug
+VILLARREAL,42,,21.50.26,7.00.00,1.2,8,Weekend,Professor,Apr
+CISNEROS,19,,23.31.43,8.25.34,3.6,7.5,Weekdays,Streamer,Oct
+HOFFMAN,23,,21.30.06,6.59.30,3.5,7.25,Weekend,Streamer,Jan
+GROSS,25,,0.51.50,8.40.40,4.5,6.25,Weekdays,Professor,Mar
+MCKENZIE,55,,22.03.27,7.10.00,2,8,Weekend,Retired,Apr
+RAY,30,,21.18.26,6.59.02,3.5,6.5,Weekdays,Professor,Feb
+STRONG,36,,21.45.29,7.27.00,4,9.25,Weekend,Professor,Dec
+STEVENSON,23,,0.43.42,8.40.16,3.5,7.25,Weekend,Professor,May
+ROBLES,23,,0.01.46,8.39.18,3.26,6.25,Weekend,Streamer,Feb
+MCPHERSON,26,,23.22.23,8.20.12,2.5,8,Weekend,Professor,Apr
+SILVA,27,Little Rock,21.05.53,6.52.23,4,7.25,Weekdays,Cab Driver,Feb
+MURRAY,27,,21.05.26,6.49.59,4.5,6,Weekdays,Professor,May
+GEORGE,18,,21.45.52,7.00.47,3.5,8.25,Weekdays,Streamer,Jun
+RUSSELL,20,Indiana,21.30.52,6.48.56,3.25,6.5,Weekdays,Streamer,Oct
+POTTER,19,,1.02.07,8.57.57,2.6,6,Weekend,Streamer,Oct
+WARREN,20,,21.06.11,6.54.29,2.25,7,Weekdays,Streamer,Dec
+MAYS,59,,20.31.13,6.04.00,1.2,8.25,Weekdays,Retired,May
+BERGER,49,,21.47.10,6.51.00,3.1,9,Weekend,Professor,Nov
+VELAZQUEZ,46,,21.45.43,6.43.00,2.5,9,Weekend,Professor,Jan
+HALE,19,Little Rock,23.23.39,8.23.35,2.5,6.75,Weekdays,Streamer,May
+LLOYD,39,,21.45.27,6.35.00,2.6,8,Weekend,Professor,Feb
+DALTON,32,,23.30.07,8.23.42,4.6,8,Weekend,Professor,Sep
+HOWARD,25,,21.30.23,6.40.23,2.6,6,Weekdays,Professor,Feb
+OLSEN,37,,22.03.36,7.13.00,2.5,7,Weekdays,Cab Driver,Jul
+LOGAN,27,,1.33.45,9.23.08,3.6,7.25,Weekend,Professor,Mar
+SANTANA,35,,22.03.06,7.03.00,2.5,8.5,Weekdays,Cab Driver,Sep
+SCHWARTZ,28,,23.21.22,8.21.36,4.7,6,Weekdays,Professor,Nov
+BARBER,26,Arkansas,0.17.16,8.39.38,2.25,7,Weekdays,Cab Driver,Sep
+BLACK,19,,21.06.04,6.53.40,4.25,8.25,Weekend,Streamer,Dec
+ORTEGA,19,,21.51.36,7.01.15,4.5,8.5,Weekend,Streamer,Oct
+WELLS,28,Boston,21.05.37,6.50.31,4.25,8,Weekend,Professor,Jun
+PARK,19,,22.20.50,7.53.37,4,6,Weekend,Streamer,Apr
+WATERS,21,,1.32.44,9.22.59,3.7,7,Weekdays,Streamer,Mar
+PRATT,53,,21.50.08,6.54.00,2.8,8.25,Weekend,Retired,Apr
+ATKINSON,32,,23.28.25,8.21.43,3.25,8,Weekend,Professor,Dec
+BALDWIN,33,,0.06.05,8.39.27,3.7,6,Weekdays,Professor,Oct
+RYAN,24,Dover,21.06.23,6.55.53,3.7,8,Weekdays,Streamer,Jan
+GOODWIN,30,Boston,1.02.04,8.54.54,6,8,Weekend,Professor,Mar
+SERRANO,24,,0.40.39,8.40.07,2.57,6,Weekdays,Streamer,Mar
+MCDONALD,19,Frankfort,21.05.33,6.50.13,3.5,7.5,Weekdays,Streamer,Jul
+BURTON,19,,22.10.56,7.44.28,4.25,8.25,Weekdays,Streamer,Jul
+LIU,31,Florida,0.22.21,8.39.43,2.5,6,Weekdays,Professor,Jun
+BLANCHARD,53,,20.21.49,8.16.00,1.5,9,Weekend,Retired,Sep
+RAMOS,21,,21.30.24,6.40.26,3.5,6,Weekend,Streamer,Apr
+PHAM,28,,23.58.47,8.24.31,2.25,6,Weekdays,Professor,Apr
+HOGAN,39,,21.45.55,6.49.00,2.4,9,Weekend,Professor,Apr
+TRUJILLO,18,Des Moines,0.59.58,8.48.48,2.25,6.75,Weekend,Streamer,Feb
+VILLANUEVA,45,,21.50.02,6.52.00,2.5,8,Weekdays,Cab Driver,May
+KLEIN,26,,0.03.02,8.39.24,2.6,6,Weekend,Cab Driver,Mar
+HENDERSON,21,,21.30.57,6.49.21,4.21,8,Weekdays,Streamer,Apr
+BYRD,30,,23.07.08,8.19.58,4.5,6,Weekend,Cab Driver,Jul
+CAMACHO,22,,1.34.46,9.22.59,2.4,6.25,Weekend,Streamer,Mar
+PENNINGTON,49,,21.58.40,6.51.09,2.6,9,Weekend,Professor,Jan
+POPE,45,,21.45.39,6.41.00,2.6,6.5,Weekend,Cab Driver,Apr
+EDWARDS,26,Atlanta,21.30.06,6.30.23,2.6,8.5,Weekdays,Cab Driver,Jun
+JENSEN,21,,22.38.01,7.29.13,3.26,8,Weekend,Streamer,May
+FROST,49,,21.50.15,6.35.33,2.4,9,Weekend,Professor,Dec
+SHEPHERD,39,,22.03.09,7.04.00,2.7,8,Weekend,Professor,Oct
+GRIMES,21,,23.33.19,8.27.26,2.6,9,Weekend,Streamer,Feb
+VANCE,21,,23.38.25,8.33.23,4.5,6.25,Weekdays,Streamer,May
+MUELLER,37,,21.45.29,6.36.00,3.1,9,Weekend,Professor,Dec
+LAMBERT,28,,23.05.06,8.19.44,2.25,6,Weekdays,Professor,May
+OWEN,35,,21.50.14,6.56.00,2.4,9,Weekdays,Professor,Dec
+WALTON,26,Springfield,0.57.56,8.46.46,3.25,6.5,Weekend,Cab Driver,Jul
+COLLIER,49,,22.04.00,7.11.24,2.5,8.5,Weekend,Professor,Mar
+FITZPATRICK,56,,20.31.01,6.04.00,0.6,9,Weekend,Retired,Feb
+VELEZ,21,,23.28.31,8.21.50,4,7.5,Weekend,Streamer,Nov
+OSBORNE,35,,1.43.55,9.23.17,2.4,8.5,Weekdays,Cab Driver,Oct
+GARDNER,25,,21.06.24,6.56.00,3.6,7.5,Weekend,Professor,Sep
+LEACH,37,,21.46.05,6.38.00,3.6,8,Weekdays,Cab Driver,Feb
+VEGA,22,,22.25.41,7.25.09,4,6,Weekend,Streamer,Oct
+FLEMING,19,,23.18.19,8.21.15,3.6,7,Weekdays,Streamer,Feb
+DAY,18,,22.26.20,7.58.42,4.5,8,Weekdays,Streamer,Aug
+MORGAN,19,Boston,21.30.17,6.40.05,4.5,9,Weekend,Streamer,Feb
+CLAY,23,,23.35.31,8.30.00,2.2,8.05,Weekdays,Athlete,Feb
+MOODY,51,,21.45.21,7.26.23,2.3,9.25,Weekend,Cab Driver,Mar
+VENTURA,59,,20.33.31,7.03.00,0.5,10.5,Weekend,Retired,Aug
+WINTERS,52,,21.45.41,6.32.00,2.4,8.5,Weekend,Retired,Apr
+HUBBARD,23,,1.11.23,9.11.10,4,6,Weekend,Streamer,Apr
+RANGEL,37,,22.22.15,7.25.00,1.5,8,Weekend,Professor,Jan
+COFFEY,31,,22.50.21,7.59.43,2.5,8,Weekdays,Cab Driver,Dec
+AVALOS,19,,21.30.55,7.14.00,2.25,8,Weekend,Streamer,Oct
+SAUNDERS,26,Little Rock,1.17.29,9.17.16,3.24,6,Weekend,Cab Driver,Nov
+CARSON,36,,22.03.42,7.05.24,2.2,8,Weekend,Professor,Jul
+BENDER,63,,20.33.55,6.58.00,1.5,9,Weekend,Retired,Jan
+JACOBS,20,,22.13.21,7.21.05,4.21,8,Weekend,Streamer,Jan
+MENDEZ,26,Little Rock,21.05.52,6.52.16,3,7.5,Weekend,Professor,Dec
+CASE,57,,20.34.19,7.06.00,2,9,Weekend,Retired,Oct
+BURKE,32,,21.31.19,7.02.04,4.25,7.5,Weekend,Professor,Jul
+POTTS,55,,20.34.25,7.04.00,1.1,10.5,Weekend,Retired,Aug
+OBRIEN,32,,22.16.26,7.22.06,3.5,7.5,Weekdays,Cab Driver,Sep
+FRAZIER,29,,23.11.12,8.20.26,6,7.25,Weekend,Professor,Dec
+BONILLA,28,,23.31.07,8.24.52,3.5,9,Weekend,Professor,Feb
+PHAN,58,,20.23.13,6.53.00,0.6,10.5,Weekend,Retired,Dec
+BLAKE,25,Indianapolis,0.58.57,8.47.47,4,6.25,Weekdays,Professor,Jun
+STONE,28,,21.06.08,6.54.08,3.24,7,Weekend,Professor,Feb
+MILES,22,,23.44.45,8.39.27,2.1,8.15,Weekdays,Athlete,Jan
+HEATH,21,,23.30.43,8.24.24,2.5,8,Weekend,Streamer,Nov
+PECK,61,,20.32.13,6.32.00,1.4,10,Weekend,Retired,Nov
+REID,19,Dover,22.05.26,7.39.23,4,6.5,Weekdays,Streamer,Apr
+BRADSHAW,40,,21.49.55,6.32.57,2.5,8,Weekdays,Cab Driver,Aug
+NICHOLS,31,,21.06.19,6.55.25,4.5,8.5,Weekdays,Professor,Dec
+DEAN,27,,22.50.21,7.33.17,4.5,8,Weekend,Professor,Sep
+HARRELL,25,,23.31.49,8.25.41,4.5,6,Weekdays,Professor,Sep
+FREEMAN,20,,21.05.41,6.50.59,4.5,9,Weekend,Streamer,Dec
+IBARRA,53,,21.45.05,6.30.19,2.4,9,Weekend,Retired,Oct
+KIRK,25,,23.27.01,8.20.05,2.25,8.25,Weekend,Professor,Jul
+MELTON,20,,23.33.31,8.27.40,3.5,8,Weekdays,Streamer,May
+BEAN,62,,20.17.37,8.28.00,1.4,9,Weekend,Retired,Oct
+LINDSEY,46,,21.45.41,6.42.00,2.4,8,Weekdays,Cab Driver,Apr
+RANDOLPH,42,,21.54.40,6.47.15,2,8,Weekdays,Cab Driver,Aug
+GALLEGOS,22,,1.27.39,9.22.14,6.5,7.25,Weekdays,Streamer,Oct
+WILLIAMSON,19,,22.44.11,7.31.15,4.5,7,Weekdays,Streamer,Jul
+ALI,38,,22.03.15,7.06.00,0.1,9,Weekend,Professor,Jul
+ELLIOTT,23,,21.06.40,6.57.52,4,6,Weekdays,Streamer,Feb
+ALVARADO,20,Tallahassee,21.15.31,6.58.55,4,6,Weekdays,Streamer,May
+RHODES,26,,23.19.20,8.21.22,2.4,6,Weekdays,Professor,May
+CONLEY,26,Alabama,23.15.16,8.20.19,2.4,6,Weekdays,Professor,May
+MILLS,20,,21.06.12,6.54.36,4,7.5,Weekdays,Streamer,Dec
+DUNCAN,25,,21.06.42,6.58.06,4.5,9,Weekend,Professor,Nov
+WOODARD,30,,23.39.43,8.34.54,4.6,8,Weekend,Professor,Sep
+MARKS,18,,23.35.01,8.29.25,4,7,Weekend,Streamer,Jan
+CANO,20,,21.30.46,8.32.48,4,6,Weekdays,Streamer,May
+POWELL,25,Hawaii,21.30.49,6.41.41,4,7.5,Weekdays,Cab Driver,Oct
+DAVENPORT,28,Alaska,23.16.17,8.20.26,2.25,6.5,Weekend,Cab Driver,Feb
+REEVES,27,,0.01.58,8.39.22,6.5,7.25,Weekdays,Cab Driver,Oct
+LIM,25,,21.30.51,7.14.00,2.2,8,Weekend,Professor,Aug
+GRIFFIN,20,Nebraska,22.50.21,7.52.09,3,8,Weekend,Streamer,Sep
+PERKINS,23,,21.27.11,6.59.23,2.6,7.5,Weekend,Professor,May
+HARDING,65,,20.32.55,6.38.00,2.4,8,Weekend,Retired,May
+LOZANO,35,,22.16.11,7.24.00,2.5,8.25,Weekdays,Cab Driver,Dec
+MEYERS,38,,22.03.12,7.00.18,1.5,8,Weekend,Professor,Mar
+CARROLL,28,,21.06.45,6.58.27,3,7,Weekend,Professor,May
+LOVE,33,,0.01.43,8.39.17,4.5,6,Weekdays,Professor,Apr
+LEVY,21,,21.30.47,8.32.48,4.5,6,Weekend,Streamer,Jul
+LE,20,,22.07.38,7.41.25,4,7.5,Weekdays,Streamer,Nov
+FITZGERALD,26,,0.41.40,8.40.10,2.6,6.25,Weekdays,Professor,May
+NEWMAN,18,,22.40.38,8.02.55,3.25,6,Weekdays,Streamer,Jul
+ESQUIVEL,64,,20.18.19,8.26.00,1.2,9,Weekdays,Retired,Mar
+PACE,63,,20.32.37,6.32.00,2.3,8,Weekend,Retired,Jul
+HESS,37,,22.03.30,7.11.00,1.6,8,Weekend,Professor,Jan
+KIRBY,32,,23.28.01,8.21.15,4.3,7,Weekdays,Cab Driver,Sep
+JACOBSON,52,,21.45.43,6.33.00,2.5,8.5,Weekdays,Retired,Apr
+CHURCH,25,,23.22.23,8.20.19,2.4,8.5,Weekend,Professor,Dec
+FULLER,25,,22.12.02,7.45.29,3.5,8.5,Weekend,Professor,Oct
+HOOVER,51,,21.55.37,7.35.45,2.6,7.2,Weekdays,Athlete,Jun
+VU,19,,23.22.23,8.19.51,3.2,7.5,Weekdays,Streamer,Oct
+HICKS,20,Honolulu,21.06.00,6.53.12,3,8,Weekend,Streamer,Aug
+FIELDS,20,,22.19.44,7.52.36,3,7.25,Weekend,Streamer,Aug
+GARRISON,21,,23.32.25,8.26.23,2.25,6,Weekend,Streamer,Mar
+CASTANEDA,33,,1.05.17,9.05.04,4.7,6.5,Weekdays,Professor,Jun
+GUERRERO,19,,21.44.26,7.00.40,3.5,9,Weekdays,Streamer,Feb
+WELCH,19,Tallahassee,22.15.20,7.48.32,4.5,6.5,Weekdays,Streamer,Jul
+HURST,22,,23.39.37,8.34.47,2.4,7,Weekdays,Streamer,Jan
+HUFF,30,Colorado,23.20.21,8.20.54,4.6,7.25,Weekend,Professor,Mar
+HART,18,,21.06.37,6.57.31,4.5,8.5,Weekend,Streamer,Jan
+MCCARTHY,32,,0.01.40,8.39.16,4,6,Weekend,Cab Driver,Nov
+ONEAL,25,,23.37.37,8.32.27,4.3,7.25,Weekdays,Cab Driver,Nov
+POTTER,19,,1.02.07,8.57.57,2.3,7.4,Weekdays,Athlete,Sep
+FIGUEROA,18,,22.50.32,8.03.04,4,8,Weekend,Streamer,Aug
+KEITH,20,,23.36.31,8.31.10,2.4,6.5,Weekdays,Streamer,Jun
+SANDERS,25,,21.30.42,6.41.20,3,8.25,Weekdays,Cab Driver,May
+XIONG,35,,21.30.44,8.32.48,4.6,6,Weekdays,Professor,Apr
+GUZMAN,25,,21.05.44,6.51.20,3.5,7,Weekend,Professor,Jun
+GARNER,19,,0.53.52,8.42.42,4.3,7,Weekend,Streamer,Dec
+COBB,43,,21.45.12,6.30.26,2.1,9.5,Weekend,Professor,Jan
+MORTON,51,Phoenix,22.03.42,7.15.00,2.3,8,Weekdays,Retired,Oct
+SHAW,23,Sacramento,21.05.54,6.52.30,4.5,6,Weekdays,Streamer,Apr
+BAXTER,21,,23.35.19,8.29.46,4.5,6,Weekdays,Streamer,Jun
+AYALA,33,,23.09.10,8.20.12,3.6,6,Weekend,Cab Driver,May
+HANSEN,27,,21.06.34,6.57.10,3,7.5,Weekdays,Cab Driver,Jul
+CORREA,56,Little Rock,20.32.19,7.46.00,1.8,9,Weekend,Retired,Dec
+LONG,19,,21.30.45,6.41.29,4.5,6,Weekdays,Streamer,May
+BARR,43,,21.46.50,6.47.00,2.6,9,Weekdays,Cab Driver,Jun
+HORTON,29,,23.37.44,8.24.10,2.25,7,Weekend,Professor,Mar
+HARDY,28,,0.10.09,8.39.31,4.7,6,Weekdays,Professor,Oct
+SWEENEY,28,,23.29.49,8.23.21,3.7,6.5,Weekend,Cab Driver,Jul
+CUMMINGS,28,Alabama,0.14.13,8.39.35,2,6.75,Weekdays,Cab Driver,Jun
+WILCOX,28,,23.10.11,8.19.44,4.5,7,Weekdays,Cab Driver,Jun
+MONROE,21,Hawaii,23.26.25,8.19.23,4.5,6,Weekdays,Streamer,May
+PRUITT,45,,21.46.30,6.43.00,2.2,8.5,Weekend,Professor,Oct
+BENJAMIN,55,,22.01.20,7.07.21,2.5,8.25,Weekend,Retired,Oct
+BOWMAN,22,,22.28.32,8.00.44,4,8.5,Weekend,Streamer,Dec
+WU,27,,1.02.11,9.02.01,3.6,6,Weekend,Cab Driver,Dec
+KOCH,23,,23.34.31,8.28.50,2.6,7.2,Weekend,Athlete,Jun
+CHANG,21,,0.02.01,8.39.23,4.5,6,Weekdays,Streamer,Apr
+OWENS,26,Indianapolis,21.05.30,6.50.07,3,8,Weekend,Professor,Jul
+NOLAN,52,,21.45.17,6.30.19,4.7,8.5,Weekend,Retired,May
+SHEPPARD,27,,21.30.53,6.31.00,2.5,8,Weekend,Professor,Oct
+STARK,38,,21.50.40,6.38.48,4.5,8.25,Weekend,Professor,Nov
+ELLIS,26,,23.18.19,8.07.05,4.5,7,Weekdays,Cab Driver,Feb
+SPENCE,29,,23.18.19,8.20.05,3.6,7.5,Weekdays,Cab Driver,Aug
+ANDERSEN,20,,23.23.26,8.19.58,3.4,7.5,Weekdays,Streamer,Dec
+WATTS,18,,23.23.25,8.21.57,3.75,6.75,Weekend,Streamer,Mar
+HERRING,59,,20.35.13,6.30.00,1.2,9.75,Weekend,Retired,Jan
+ORR,38,,21.46.15,7.25.23,2.2,9.25,Weekend,Professor,Jan
+HENRY,18,,21.05.39,6.50.45,2.4,6.8,Weekdays,Athlete,Jul
+GIBBS,47,,21.45.13,6.30.51,2.2,8,Weekend,Professor,Dec
+BECKER,21,,23.23.34,8.23.00,2.5,6.75,Weekdays,Streamer,Dec
+MORA,55,,21.55.43,7.00.09,3.1,8,Weekend,Retired,Jul
+BROWNING,35,,21.48.10,6.19.18,2.7,8,Weekdays,Cab Driver,Dec
+WOODS,18,Baton Rouge,21.05.34,6.50.15,2,8,Weekend,Streamer,Jun
+HUTCHINSON,25,,23.35.43,8.30.14,6,8,Weekend,Professor,May
+AUSTIN,32,,22.01.01,7.17.01,4,8.5,Weekdays,Cab Driver,Feb
+MULLEN,34,,21.30.43,8.32.48,2.6,7,Weekdays,Cab Driver,Sep
+FARMER,28,,1.21.33,9.21.20,4,6.75,Weekend,Professor,Jan
+HARRISON,29,Des Moines,21.05.31,6.50.09,4,8,Weekdays,Cab Driver,Sep
+MALDONADO,26,,21.46.22,7.02.25,4,8,Weekend,Professor,Oct
+MAY,23,,22.37.20,8.02.52,4.25,6,Weekdays,Streamer,Jan
+FOSTER,23,Florida,21.30.47,6.41.35,4.6,8,Weekend,Streamer,Jan
+GOODMAN,24,Baton Rouge,1.02.01,8.51.51,3.26,6,Weekdays,Streamer,Jan
+YU,20,,23.30.31,8.24.10,3.75,9,Weekend,Streamer,Mar
+HALEY,51,,20.23.55,6.23.00,0.4,10,Weekend,Retired,Dec
+AYERS,57,,20.33.19,6.46.00,2.6,8,Weekdays,Retired,Jul
+JOHNS,18,,23.38.37,8.33.37,3.6,7,Weekdays,Streamer,Jul
+LAWRENCE,26,,21.41.34,7.00.26,4.5,8.5,Weekdays,Cab Driver,Apr
+DOUGLAS,26,,22.45.02,8.39.27,2.3,7.4,Weekdays,Athlete,Sep
+WOLF,20,,1.15.27,9.15.14,4.21,7,Weekdays,Streamer,Jan
+AGUIRRE,20,,0.12.11,8.39.33,3.5,7.25,Weekdays,Streamer,Jan
+RANDALL,25,Iowa,23.26.49,8.19.51,2.5,8,Weekdays,Cab Driver,Aug
+MARSHALL,24,Springfield,21.05.29,6.50.05,3.5,7,Weekend,Streamer,Jan
+WEST,34,New Jersey,23.20.21,8.06.23,2.6,7.5,Weekdays,Cab Driver,Feb
+HERMAN,53,,21.50.35,6.38.09,1.2,8.5,Weekdays,Retired,Jun
+ROWE,23,,1.19.31,9.19.18,4,6.25,Weekdays,Streamer,Mar
+COLEMAN,28,,21.30.55,6.49.11,4.25,6,Weekdays,Professor,Sep
+CERVANTES,23,,0.01.49,8.39.19,3.6,7,Weekdays,Streamer,Jan
+FLYNN,47,,21.45.51,6.47.00,2.4,8,Weekdays,Cab Driver,Jul
+MCLEAN,49,,21.48.30,7.25.23,2.6,9.25,Weekdays,Cab Driver,Nov
+MALONE,30,,1.06.18,9.06.05,4.5,6,Weekdays,Professor,Apr
+FRENCH,38,,21.45.33,6.38.00,3.6,7.5,Weekdays,Cab Driver,Jan
+MOSES,57,,20.34.31,7.10.00,2.6,8,Weekdays,Retired,Aug
+MCINTOSH,49,,21.50.00,6.33.36,2.4,7.5,Weekdays,Cab Driver,Dec
+DUNLAP,57,,20.34.49,7.16.00,2.9,7.5,Weekdays,Retired,Aug
+NORMAN,33,,1.36.48,9.23.35,4.7,6,Weekdays,Professor,Sep
+CHRISTIAN,20,,23.27.19,8.20.26,2.25,6.25,Weekdays,Streamer,Sep
+MAYNARD,29,,22.44.11,6.51.48,2.5,6.9,Weekdays,Athlete,Aug
+RAYMOND,56,,20.31.31,6.10.00,1.8,8,Weekdays,Retired,Aug
+SIMS,28,,22.53.26,7.34.18,3,9,Weekend,Professor,Nov
+CORTES,31,,21.45.12,6.30.07,4.7,8.25,Weekend,Professor,Mar
+MIRANDA,29,,23.06.07,8.19.51,4,6.5,Weekdays,Professor,Aug
+MACK,25,,1.09.21,9.09.08,3,6.25,Weekdays,Professor,May
+BRADFORD,24,,23.27.31,8.20.40,3,8,Weekend,Streamer,Sep
+RICHMOND,23,,21.30.49,8.32.48,4.5,6,Weekdays,Streamer,Feb
+PAUL,35,Illinois,0.26.25,8.39.47,4.5,6.25,Weekend,Cab Driver,Oct
+JORDAN,27,Massachusetts,22.31.51,7.45.51,4.5,9,Weekend,Professor,Feb
+HENRY,18,,21.05.39,6.50.45,4.25,6,Weekdays,Streamer,Dec
+VAZQUEZ,26,,21.06.33,6.57.03,3,7,Weekdays,Cab Driver,Nov
+CARLSON,31,,21.04.30,7.02.46,3.25,9,Weekend,Professor,Apr
+HANNA,62,,20.32.31,6.30.00,2.5,8.5,Weekdays,Retired,Oct
+KERR,39,,21.46.00,6.37.00,2.5,8.5,Weekend,Professor,Dec
+MORALES,23,Des Moines,21.30.11,6.30.43,3.5,8,Weekdays,Streamer,Jan
+BOONE,30,,23.27.55,8.21.08,4.25,8.5,Weekdays,Cab Driver,Jun
+MULLINS,31,,1.04.16,9.04.03,4.6,6,Weekdays,Professor,Feb
+WARD,19,Boise,21.30.27,6.40.35,4.5,8,Weekend,Streamer,Sep
+RASMUSSEN,28,,22.25.41,8.32.48,3.2,6.5,Weekdays,Professor,Jan
+ENRIQUEZ,36,,21.52.40,6.45.18,2.2,8,Weekend,Professor,Sep
+HAYDEN,19,,21.30.45,7.14.00,2.5,8,Weekdays,Streamer,Oct
+LAWSON,18,,22.10.16,7.20.04,4.3,7,Weekend,Streamer,Feb
+BUTLER,24,,21.30.56,6.49.16,4.3,8,Weekend,Professor,Feb
+LYNCH,21,,22.19.31,7.23.07,3.24,9,Weekend,Streamer,Apr
+HOWELL,20,,22.02.08,7.36.20,4.25,8,Weekend,Streamer,Nov
+BERNARD,63,,20.35.43,6.35.00,1.2,10,Weekend,Retired,Sep
+WEEKS,51,,21.51.00,6.41.24,2.8,8,Weekend,Retired,Jun
+FLETCHER,30,,0.01.34,8.39.14,4,6.75,Weekend,Professor,Nov
+SIMPSON,21,Sacramento,21.05.48,6.51.48,4.5,6,Weekend,Streamer,May
+ARROYO,26,,23.32.31,8.26.30,2.4,6.5,Weekdays,Professor,Jun
+WATSON,20,Indianapolis,21.30.29,6.44.41,4,7,Weekdays,Streamer,Aug
+CARDENAS,21,,0.29.28,8.39.50,3.5,7.5,Weekdays,Streamer,Sep
+MEZA,29,,23.28.37,8.21.57,2.25,8,Weekdays,Cab Driver,Oct
+GATES,29,,23.29.31,8.23.00,2.6,7,Weekend,Professor,Dec
+WILEY,28,,23.36.01,8.30.35,2.6,6,Weekdays,Professor,Oct
+PATTERSON,23,Michigan,22.34.56,7.46.54,3.26,7,Weekdays,Streamer,Oct
+MEADOWS,37,,21.46.10,6.39.00,2.1,9,Weekend,Professor,Mar
+HARDIN,37,,21.49.50,6.32.18,2.7,7.5,Weekdays,Cab Driver,Aug
+DOUGHERTY,56,,20.25.19,6.25.00,0.5,10,Weekend,Retired,Jan
+ESCOBAR,50,,21.45.23,6.33.00,2.4,8,Weekend,Retired,Dec
+ESPINOSA,60,,20.35.25,6.28.06,1.5,9.5,Weekend,Retired,Dec
+NOBLE,37,,21.50.50,6.40.06,2.6,9,Weekend,Professor,Jan
+STAFFORD,20,,23.39.25,8.34.33,3.7,7.25,Weekdays,Streamer,Oct
+MERRITT,53,,21.45.21,6.30.27,3.5,8.25,Weekend,Retired,Apr
+CORTEZ,24,,22.43.56,8.02.58,3,6,Weekdays,Streamer,Apr
+LIN,27,,0.13.12,8.39.34,2.3,7.65,Weekdays,Athlete,Mar
+OLSON,19,,21.05.47,6.51.41,3,7.5,Weekdays,Streamer,Oct
+SIMMONS,26,,22.25.41,7.43.45,2.25,8.5,Weekend,Professor,Oct
+PARKER,24,Dover,21.30.04,6.30.15,3,7,Weekend,Streamer,Apr
+DOUGLAS,26,,22.45.02,8.02.59,4,7,Weekdays,Cab Driver,Mar
+REILLY,47,,21.58.00,6.50.30,2.5,9,Weekend,Professor,Jan
+CABRERA,24,,0.01.16,8.39.08,4.25,7,Weekdays,Streamer,Dec
+BRIGGS,36,,22.03.54,7.19.00,2.6,9,Weekend,Professor,Nov
+CAMERON,18,Delaware,23.26.07,8.20.54,2.5,6.5,Weekdays,Streamer,Jun
+GILLESPIE,43,,21.49.20,6.28.24,2.7,8,Weekend,Professor,Jun
+MCCORMICK,51,,21.45.47,6.45.00,2.7,9,Weekdays,Retired,Nov
+PALMER,34,Springfield,21.06.02,6.53.26,4,8,Weekend,Professor,Jul
+MCKAY,59,,20.35.19,7.35.24,2.4,6.8,Weekdays,Athlete,Jul
+CHEN,20,,21.05.40,6.50.52,4.5,6.5,Weekend,Streamer,Sep
+BROCK,40,,21.50.23,8.19.00,1,9.75,Weekend,Professor,Nov
+MACDONALD,23,,23.39.07,8.34.12,2.6,8,Weekend,Streamer,Aug
+BARTLETT,49,,21.47.40,6.57.00,2.7,8.25,Weekdays,Cab Driver,Jun
+BARNES,29,,21.30.58,6.49.26,3.5,8.5,Weekend,Professor,May
+ANDREWS,29,,23.39.31,8.34.40,3.6,7,Weekend,Professor,Nov
+ACEVEDO,19,,23.31.13,8.24.59,2.6,7.5,Weekdays,Streamer,Jan
+BOWEN,27,California,0.18.17,8.39.39,3,7.25,Weekend,Professor,Jul
+BEASLEY,25,,23.37.55,8.32.48,3.24,6,Weekend,Cab Driver,Oct
+CHUNG,38,,21.48.50,6.24.30,3.1,8,Weekend,Professor,May
+GUERRA,18,,1.14.26,9.14.13,4.3,7.25,Weekdays,Streamer,Sep
+BAUTISTA,39,,22.03.12,7.05.00,2.2,8,Weekdays,Cab Driver,Dec
+GORDON,26,,21.05.51,6.52.09,3,7,Weekend,Professor,Oct
+OROZCO,35,Dover,21.45.10,6.30.39,2.5,8,Weekend,Professor,Jun
+CAREY,50,,22.00.00,7.01.24,4.7,8,Weekend,Retired,May
+BOOKER,27,,21.30.56,8.32.48,2.4,7.5,Weekend,Professor,May
+CALDERON,24,,0.32.31,8.39.53,2.25,6.5,Weekend,Streamer,Dec
+MCCARTY,23,,21.30.54,,3.6,6.5,Weekend,Streamer,Mar
+WYATT,31,,23.30.01,8.23.35,2.4,8,Weekend,Professor,May
+JEFFERSON,20,Florida,23.26.13,8.11.12,2.5,7,Weekdays,Streamer,Jul
+BLEVINS,54,,20.31.37,6.28.04,1.7,9.5,Weekend,Retired,Mar
+SINGLETON,23,,23.26.55,8.19.58,3.6,7,Weekdays,Streamer,Jul
+DIXON,30,Dover,21.05.57,6.52.51,3.25,7,Weekdays,Cab Driver,Aug
+LITTLE,23,,22.23.02,7.55.39,3.5,7,Weekdays,Streamer,May
+MERCADO,36,,21.55.43,7.02.00,2.4,8,Weekdays,Cab Driver,Aug
+QUINTANA,58,,20.19.43,6.19.00,0.8,10,Weekend,Retired,Sep
+CARRILLO,21,,23.16.17,8.21.01,3.5,7,Weekdays,Streamer,Mar
+BENSON,32,,23.23.42,8.23.56,2.5,7,Weekend,Professor,Dec
+ROBERSON,29,,23.13.14,8.20.05,2,8.5,Weekend,Professor,Dec
+BERG,27,,23.35.55,8.30.28,4.5,7.25,Weekend,Professor,Feb
+ACOSTA,32,,22.35.08,8.02.50,3.5,7.5,Weekdays,Cab Driver,Feb
+OCONNELL,27,,23.23.24,8.19.44,3.6,7,Weekend,Professor,Sep
+WILKINS,43,Sacramento,22.03.48,7.17.00,2.1,8,Weekend,Professor,Mar
+RUBIO,23,,23.32.01,8.25.55,2.2,8,Weekend,Streamer,Apr
+SEXTON,53,,21.48.45,6.30.24,3.6,9.5,Weekend,Retired,Jan
+CALHOUN,49,,21.48.40,6.23.12,3.5,8.5,Weekend,Professor,May
+BARAJAS,43,,21.45.35,6.30.55,2.6,8.5,Weekend,Professor,Oct
+TRUONG,58,,20.33.43,6.33.00,1.2,10,Weekend,Retired,Mar
+KOCH,23,,23.34.31,8.28.50,4.3,6,Weekend,Streamer,Jun
+SMALL,62,,20.31.55,6.31.00,1.5,10,Weekend,Retired,Sep
+BENITEZ,18,,23.31.19,8.25.06,4.6,8.5,Weekdays,Streamer,Dec
+BENTLEY,61,,20.32.01,6.28.02,1.4,9.5,Weekend,Retired,Feb
+HAHN,61,,20.31.43,6.31.00,1.4,10,Weekend,Retired,Jan
+MUNOZ,19,Tallahassee,21.05.58,6.52.58,4,6,Weekdays,Streamer,Dec
+ALEXANDER,25,Minnesota,22.38.01,7.47.57,3.6,8,Weekend,Professor,Sep
+CASTRO,23,,21.05.28,6.50.03,4,6.5,Weekend,Streamer,Mar
+MIDDLETON,36,,21.49.30,6.29.42,2.4,8,Weekend,Professor,Apr
+BRYANT,31,North Carolina,23.23.24,8.06.44,4.25,8.5,Weekend,Professor,Feb
+ROGERS,26,Baton Rouge,21.30.14,6.30.55,3.5,9,Weekend,Professor,Jul
+RICH,19,,23.34.19,8.28.36,4.5,7,Weekend,Streamer,Nov
+ROCHA,19,Connecticut,23.26.01,8.21.01,2.5,6,Weekdays,Streamer,Apr
+LEBLANC,40,Little Rock,21.49.40,6.31.00,2.4,7.5,Weekdays,Cab Driver,Sep
+MOLINA,27,,22.54.56,8.07.08,4,6.25,Weekdays,Professor,Apr
+SCHULTZ,24,,22.29.38,8.01.45,4.25,8,Weekdays,Streamer,Dec
+KENNEDY,27,Annapolis,21.05.36,6.50.24,4.5,8.5,Weekend,Professor,May
+FOWLER,28,,22.31.50,8.02.47,4.5,8.25,Weekdays,Cab Driver,Jan
+ROSAS,49,,21.45.39,6.31.00,2.2,8,Weekdays,Cab Driver,Mar
+ONEILL,27,,23.33.37,8.27.47,3.4,7,Weekdays,Cab Driver,Jun
+PATTON,51,,21.45.04,6.30.15,2.2,8.25,Weekend,Retired,Feb
+KENT,37,,21.46.35,6.44.00,2.3,6.5,Weekend,Cab Driver,Jul
+WADE,33,,22.53.50,8.06.07,3.25,6,Weekdays,Professor,Aug
+BOND,31,,23.32.37,8.26.37,2.35,7,Weekend,Professor,Jun
+LANG,38,,21.50.20,6.58.00,1.5,8,Weekend,Professor,Aug
+STEVENS,20,,21.05.25,6.49.57,4,7,Weekdays,Streamer,Aug
+SOLIS,19,,0.01.52,8.39.20,4.5,8,Weekdays,Streamer,Mar
+DURAN,19,,23.23.26,8.22.04,2,6.25,Weekdays,Streamer,May
+BUSH,20,,0.01.04,8.36.04,3,6,Weekend,Streamer,Jan
+HUYNH,25,Indiana,23.26.43,8.19.44,3.5,8.5,Weekend,Professor,Jun
+FISHER,30,,22.19.31,7.41.39,3.25,9,Weekend,Professor,Jan
+ZIMMERMAN,27,,0.01.25,8.39.11,3.5,7.25,Weekdays,Cab Driver,Jun
+HANSON,18,,22.06.32,7.40.24,4.25,9,Weekend,Streamer,Mar
+BROOKS,20,Des Moines,21.30.30,6.45.44,4.25,7.5,Weekdays,Streamer,Mar
+PERRY,26,Illinois,21.30.51,6.48.51,3,6,Weekdays,Professor,Dec
+HAYNES,21,,23.30.43,8.24.03,3.6,7.25,Weekdays,Streamer,Aug
+YANG,25,,22.21.56,7.54.38,2.6,6.5,Weekdays,Professor,Dec
+MCCONNELL,64,,20.33.01,6.40.00,2.6,7,Weekend,Retired,Jul
+SUAREZ,37,Sacramento,21.45.08,7.26.23,2.4,9.25,Weekdays,Cab Driver,Oct
+NICHOLSON,42,,22.04.03,7.22.00,2.4,8,Weekdays,Cab Driver,Sep
+RIVAS,19,,0.37.36,8.39.58,4.25,7.25,Weekdays,Streamer,Feb
+WALTER,19,,23.37.25,8.32.13,4.5,8,Weekend,Streamer,Oct
+KNIGHT,24,,21.06.39,6.57.45,4.25,9,Weekdays,Streamer,Dec
+PITTMAN,22,Illinois,23.26.37,8.19.37,2.2,8,Weekdays,Streamer,Mar
+COPELAND,23,Arizona,23.17.18,8.20.33,3,8,Weekend,Streamer,Dec
+MEDRANO,60,,20.31.37,6.12.00,1.9,8,Weekdays,Retired,Nov
+HORNE,63,,20.21.07,8.18.00,1.1,9,Weekend,Retired,Feb
+GONZALES,30,,21.30.59,6.59.25,3.24,8,Weekend,Professor,Jul
+KRAMER,39,,21.45.35,6.39.00,3.1,8,Weekdays,Cab Driver,Oct
+PERALTA,25,,22.31.51,9.19.18,4,5.5,Weekend,Cab Driver,Apr
+CLAYTON,40,,22.03.48,7.07.24,2.5,9,Weekend,Professor,Mar
+WHITAKER,42,,22.03.51,7.08.24,2.6,9,Weekend,Professor,Nov
+FARRELL,23,,23.29.55,8.23.28,3.6,7,Weekend,Streamer,Jan
+TODD,25,,1.02.10,9.01.00,3.7,6,Weekdays,Professor,Aug
+GARRETT,20,,22.09.50,7.43.27,4.5,7,Weekend,Streamer,Mar
+SCHAEFER,37,,21.55.20,6.47.54,2.1,9,Weekend,Professor,Jan
+TAPIA,32,,23.29.25,8.22.53,4.5,9,Weekend,Professor,Jul
+KELLY,24,,21.30.22,6.40.20,4,7,Weekdays,Streamer,Jan
+HUNT,20,Atlanta,21.05.59,6.53.05,3.6,8,Weekdays,Streamer,Oct
+VALENTINE,61,,20.31.25,6.08.00,1.5,8.25,Weekend,Retired,Jun
+STEPHENSON,19,,23.38.01,8.32.55,3.25,6,Weekend,Streamer,May
+CONTRERAS,24,,21.37.16,7.00.05,4,6,Weekdays,Streamer,Apr
+GRIFFITH,34,Idaho,0.25.24,8.39.46,3.6,6.75,Weekdays,Cab Driver,Jun
+BASS,51,,22.03.21,7.01.24,2.4,8.25,Weekdays,Retired,Jul
+ARNOLD,24,,21.06.31,6.56.49,4,8,Weekend,Professor,Apr
+LANDRY,57,,20.34.13,6.34.00,1.8,10,Weekend,Retired,Dec
+BURCH,19,,23.20.21,8.19.23,2.8,7.5,Weekend,Streamer,Jun
+BRIDGES,18,,23.28.13,8.21.29,3.5,8,Weekend,Streamer,Jul
+KHAN,18,,0.38.37,8.40.01,3.5,6.25,Weekdays,Streamer,Aug
+CLEMENTS,65,,20.30.13,7.30.00,0.5,11,Weekend,Retired,Jan
+RICHARDS,30,,21.35.50,6.59.58,4.25,7,Weekend,Professor,Mar
+PIERCE,24,,21.06.32,6.56.56,4.5,8,Weekend,Professor,Aug
+CRAIG,32,,23.08.09,8.20.05,3.26,6.5,Weekend,Cab Driver,Jul
+DENNIS,29,Connecticut,0.20.19,8.39.41,2.6,6,Weekdays,Professor,Oct
+RUSSO,30,,23.36.13,8.30.49,3.5,6,Weekdays,Professor,Dec
+FRY,64,,20.29.31,6.59.00,0.7,10.5,Weekend,Retired,Aug
+HARRINGTON,18,,1.41.53,9.24.20,3.4,6,Weekdays,Streamer,Apr
+ODONNELL,53,,21.48.00,6.18.00,2.4,8,Weekdays,Retired,May
+HOLMES,32,Boise,21.06.01,6.53.19,3.25,8.5,Weekend,Professor,Jul
+WHEELER,20,,21.16.16,7.01.43,3,8,Weekdays,Streamer,Jul
+ROSALES,24,,0.42.41,8.40.13,4,7,Weekend,Streamer,Nov
+EVANS,21,TEXAS,21.30.01,6.30.03,4,8.5,Weekend,Streamer,Oct
+JENNINGS,20,,23.23.24,8.21.50,3.5,6,Weekdays,Streamer,Apr
+ELLISON,51,,21.49.10,6.27.06,2.5,9,Weekdays,Retired,Feb
+AGUILAR,21,,21.05.24,6.49.55,3,9,Weekend,Streamer,Feb
+ROTH,40,,22.04.00,7.21.00,2.6,8,Weekend,Professor,Apr
+VALDEZ,28,,21.21.17,7.01.50,4,8.5,Weekend,Professor,Dec
+QUINN,25,,0.33.32,8.39.54,2.4,6.25,Weekend,Cab Driver,Jan
+SOSA,26,,23.29.43,8.23.14,3.5,6,Weekend,Cab Driver,Sep
+ROY,22,,23.28.43,8.22.04,4,7,Weekdays,Streamer,Apr
+ROJAS,18,,22.16.26,7.49.33,4.25,8,Weekend,Streamer,Feb
+MCCULLOUGH,51,,21.45.19,6.30.23,4.5,9.5,Weekdays,Cab Driver,Jan
+INGRAM,29,,1.25.37,9.21.56,4.5,7.5,Weekdays,Cab Driver,Jul
+CURTIS,22,,22.42.50,8.02.57,3,6.5,Weekdays,Streamer,Jun
+KNAPP,51,,21.50.30,6.37.30,1,8,Weekdays,Retired,Sep
+BARRON,19,,23.30.19,8.23.56,4.5,7.5,Weekdays,Streamer,May
+GALVAN,28,,23.27.43,8.20.54,4,7,Weekend,Professor,Jan
+HOOD,32,Georgia,23.26.19,6.51.48,2.6,8.1,Weekend,Athlete,Dec
+ABBOTT,19,,23.29.13,8.22.39,6,8,Weekdays,Streamer,Feb
+STEIN,38,,21.48.05,7.08.39,2.1,9.75,Weekend,Professor,Mar
+WILKINSON,33,,23.28.07,8.21.22,4.21,7.5,Weekdays,Cab Driver,Mar
+BARRETT,30,,22.48.20,8.03.02,4.6,6.75,Weekend,Professor,Jun
+RIVERS,61,,20.35.31,6.28.03,1.4,9.5,Weekdays,Retired,Dec
+BENNETT,23,Augusta,21.30.34,6.49.56,3.5,8,Weekend,Streamer,May
+HOOD,32,Georgia,23.26.19,8.12.13,3.6,7,Weekend,Professor,May
+TREJO,49,,21.56.40,6.49.12,1.6,8,Weekdays,Cab Driver,Dec
+COLLINS,19,Honolulu,21.30.07,6.30.27,4.5,7,Weekdays,Streamer,Dec
+MURILLO,38,,21.45.23,6.30.31,3.2,9,Weekend,Professor,Nov
+HO,19,,23.33.49,8.28.01,4,8,Weekend,Streamer,Jan
+VAUGHAN,30,,20.35.07,7.22.00,3.4,7,Weekdays,Cab Driver,Dec
+LUGO,54,,20.26.43,6.28.00,1.2,9.5,Weekdays,Retired,Jan
+PAGE,31,,0.01.37,8.39.15,2.25,7.25,Weekdays,Cab Driver,Nov
+BERRY,25,,21.24.16,6.59.16,4,7,Weekdays,Cab Driver,Nov
+VILLALOBOS,59,,20.22.31,6.22.00,0.3,10,Weekend,Retired,Feb
+PETERS,23,,21.06.35,6.57.17,4.25,8,Weekend,Streamer,Nov
+BLANKENSHIP,43,,21.47.20,6.53.00,2.6,9.25,Weekdays,Cab Driver,Apr
+WIGGINS,32,,23.33.13,8.27.19,2.57,8,Weekdays,Cab Driver,Mar
+WEBSTER,28,Annapolis,1.02.03,8.53.53,4.5,7,Weekend,Professor,Dec
+BARRY,27,,23.38.31,8.33.30,3.26,7,Weekdays,Cab Driver,Feb
+MCLAUGHLIN,30,,0.48.47,8.40.31,3,6.25,Weekdays,Professor,Apr
+SCHNEIDER,28,,22.46.08,8.03.00,4.5,7.25,Weekdays,Cab Driver,Jun
+KAUR,26,,23.35.49,8.30.21,6.5,7,Weekend,Professor,Oct
+MORRISON,28,,21.51.23,7.02.32,3.6,7.5,Weekdays,Cab Driver,Sep
+NEWTON,19,,0.54.53,8.43.43,4.21,7.5,Weekdays,Streamer,Jul
+LARSON,29,,21.36.20,7.02.11,4.6,8,Weekend,Professor,Aug
+ANDREWS,20,Dover,21.12.36,6.58.48,4.25,7.5,Weekend,Streamer,Apr
+PORTER,27,Denver,21.05.49,6.51.55,3.25,6.5,Weekend,Cab Driver,Mar
+AHMED,21,,23.36.43,8.31.24,4.7,6.5,Weekdays,Streamer,Mar
+PENA,27,,21.34.24,6.59.51,4.5,7,Weekdays,Cab Driver,Oct
+CRANE,56,,20.24.37,6.54.00,0.75,10.5,Weekend,Retired,Jan
+BELTRAN,18,,23.33.55,8.28.08,3.6,6,Weekdays,Streamer,Dec
+MASON,24,Hartford,21.05.56,6.52.44,4.6,7,Weekdays,Streamer,Feb
+LIVINGSTON,47,,21.50.10,6.34.54,2.6,8,Weekend,Professor,Sep
+ARELLANO,29,,23.33.25,8.27.33,4,8.25,Weekend,Professor,Feb
+MCDONALD,19,Frankfort,21.05.33,6.50.13,2.5,8,Weekdays,Athlete,Nov
+JUAREZ,19,,22.39.32,8.02.54,4.5,6.5,Weekdays,Streamer,Mar
+REESE,23,,0.56.55,8.45.45,3.24,7.25,Weekend,Streamer,Nov
+RODGERS,20,,0.39.38,8.40.04,4.6,6.75,Weekend,Streamer,Apr
+TREVINO,38,,22.03.24,7.09.00,2.1,8.5,Weekdays,Cab Driver,Apr
+HURLEY,66,,20.32.49,6.36.00,2.6,7.5,Weekdays,Retired,Sep
+SANTIAGO,19,,21.41.21,7.02.18,3.25,9,Weekend,Streamer,Nov
+WASHINGTON,20,Augusta,21.05.35,6.50.17,4,9,Weekend,Streamer,Nov
+BOOTH,25,,23.34.25,8.28.43,4.25,6.5,Weekend,Professor,Nov
+BLACKWELL,20,,23.38.49,8.33.51,6,6,Weekend,Streamer,Nov
+BARNETT,27,,22.59.20,8.11.12,4.21,7.25,Weekend,Professor,Jan
+HOLT,21,,23.23.35,8.23.07,2.5,7.25,Weekdays,Streamer,Apr
+CANNON,24,,1.07.19,9.07.06,4,7,Weekend,Streamer,Jan
+CLARKE,23,,1.28.40,9.22.23,4.5,6.5,Weekdays,Streamer,Aug
+HAIL,21,,23.23.41,8.23.49,3.5,6.25,Weekend,Streamer,Jun
+BRAVO,35,,21.50.45,6.39.27,2.4,8,Weekend,Professor,Nov
+MONTES,25,,23.37.01,8.31.45,3.6,7.25,Weekdays,Cab Driver,Aug
+CANTU,19,Little Rock,23.35.07,8.29.32,2.25,8,Weekdays,Streamer,Feb
+MURPHY,24,Topeka,21.30.12,6.30.47,2.6,8.1,Weekend,Athlete,Dec
+CHAN,23,,0.36.35,8.39.57,3.56,7,Weekend,Streamer,Nov
+WALLER,28,,21.30.57,7.14.00,2.35,7.5,Weekdays,Streamer,Jan
+SOTO,22,Sacramento,21.06.21,6.55.39,4,9,Weekend,Streamer,Feb
+WEISS,37,,22.03.15,7.00.21,2.5,8,Weekdays,Cab Driver,Mar
+CHANDLER,19,Alaska,0.15.14,8.39.36,2.5,6,Weekdays,Streamer,Mar
+GARZA,23,,21.06.16,6.55.04,4.5,7.5,Weekdays,Streamer,Jun
+SPARKS,52,,21.45.49,6.46.00,2.5,8.5,Weekend,Retired,Oct
+XIONG,35,,21.30.44,8.39.27,2.5,7.1,Weekdays,Athlete,May
+HARPER,30,,21.26.18,7.01.57,4.5,7,Weekdays,Cab Driver,Apr
+WEBB,20,,21.05.42,6.51.06,3,7.5,Weekdays,Streamer,Nov
+ASHLEY,68,,20.35.49,6.28.01,1.4,9.5,Weekdays,Retired,Jan
+HAWKINS,23,Atlanta,21.06.30,6.56.42,3.75,7,Weekdays,Streamer,Aug
+BARTON,31,,1.29.41,9.22.32,2.6,6.25,Weekdays,Professor,May
+CHAVEZ,20,Topeka,21.30.31,6.40.47,4.5,8,Weekend,Streamer,Oct
+BOYD,20,,21.06.06,6.53.54,4.21,8,Weekend,Streamer,Nov
+GOULD,57,,20.34.55,7.18.00,2.4,8,Weekdays,Retired,Jul
+HERRERA,33,North Dakota,23.23.25,8.06.51,4,8.5,Weekend,Professor,Dec
+ROMAN,26,Augusta,1.02.02,8.52.52,3.6,6.25,Weekdays,Professor,May
+MACIAS,43,,21.49.59,7.49.00,2.7,10,Weekend,Cab Driver,Dec
+SALAZAR,19,,21.06.09,6.54.15,3.25,8,Weekend,Streamer,Feb
+BATES,23,,23.01.02,8.12.13,3.5,6,Weekend,Streamer,Apr
+FOLEY,29,,23.30.49,8.24.31,2.4,9,Weekdays,Professor,Jul
+ZAMORA,47,,21.50.05,6.53.00,2.4,8,Weekend,Professor,Oct
+MOSS,26,,0.34.33,8.39.55,2.35,6.75,Weekdays,Cab Driver,Jul
+HENDRICKS,43,,21.48.35,6.22.33,3.1,8,Weekend,Professor,Oct
+HOLLOWAY,37,,22.10.07,7.23.00,3.1,8.5,Weekdays,Cab Driver,Sep
+GRANT,27,,21.06.26,6.56.14,4.6,7,Weekdays,Cab Driver,Sep
+VINCENT,25,,23.28.49,8.22.11,4.5,8.5,Weekend,Professor,Jul
+MYERS,19,,21.30.44,6.41.26,4,7.5,Weekdays,Streamer,Nov
+NASH,49,Little Rock,22.03.45,7.16.00,2.2,7.5,Weekend,Professor,Jan
+DELEON,22,,23.23.36,8.23.14,2.5,7,Weekdays,Streamer,Jul
+HAWKINS,23,Atlanta,21.06.30,8.32.48,2.4,7.7,Weekdays,Athlete,Oct
+MASSEY,31,Arkansas,23.18.19,8.20.40,3.5,7,Weekend,Professor,Aug
+PAYNE,26,,21.06.25,6.56.07,2.4,9,Weekend,Professor,Mar
+BRENNAN,21,,23.34.49,8.29.11,3.24,6.25,Weekdays,Streamer,May
+WOOD,19,Frankfort,21.30.32,6.40.50,4.5,9,Weekend,Streamer,Dec
+LYONS,25,,23.51.46,8.24.24,2.35,6,Weekend,Cab Driver,Sep
+SHERMAN,18,,1.10.22,9.10.09,3.25,6.75,Weekdays,Streamer,Oct
+KRUEGER,32,,22.22.36,,3.5,6.5,Weekend,Cab Driver,Mar
+MCCALL,51,,21.47.55,6.17.21,2.5,9.25,Weekdays,Cab Driver,Jul
+PERSON,30,,1.37.49,9.23.44,4.5,6.25,Weekend,Cab Driver,May
+HOUSE,49,,21.57.20,6.49.51,1.2,8,Weekend,Professor,Nov
+CRUZ,25,Tallahassee,21.30.05,6.30.19,4.25,8,Weekend,Professor,Mar
+WATKINS,26,,21.53.02,7.01.22,3.25,8,Weekend,Professor,Oct
+MAXWELL,19,,1.31.43,9.22.50,3.5,7.25,Weekdays,Streamer,Sep
+RICHARD,26,,23.27.37,8.20.47,3.25,7,Weekdays,Cab Driver,May
+TUCKER,19,,21.05.43,6.51.13,3.5,8.5,Weekend,Streamer,Dec
+DELAROSA,63,,20.28.49,6.28.00,0.6,10,Weekend,Retired,Dec
+MCDOWELL,27,,23.34.55,8.29.18,3.25,6.75,Weekdays,Cab Driver,Jul
+HODGES,26,,1.12.24,9.12.11,4.5,6.25,Weekdays,Professor,Jun
+MAGANA,57,,20.34.37,7.12.00,2.4,8.5,Weekend,Retired,Nov
+SNYDER,25,Denver,21.05.55,6.52.37,4.25,6.5,Weekdays,Professor,May
+FARLEY,62,,20.35.37,6.35.00,1.3,10,Weekend,Retired,Mar
+CURRY,27,,0.47.46,8.40.28,3.6,6,Weekdays,Professor,May
+HOBBS,18,,23.36.25,8.31.03,3.6,6,Weekdays,Streamer,Mar
+ATKINS,20,,23.30.55,8.24.38,2.25,6,Weekdays,Streamer,Apr
+MORROW,38,,22.03.45,7.06.24,2.4,8,Weekdays,Cab Driver,Aug
+BECK,26,,23.04.05,8.19.37,4,6,Weekend,Cab Driver,Sep
+PARKS,25,,23.23.31,8.22.39,3.5,7.25,Weekdays,Cab Driver,Jul
+SIMON,26,,0.08.07,8.39.29,2.4,6,Weekend,Cab Driver,Aug
+MCGUIRE,55,,21.45.25,6.34.00,2.5,8.5,Weekdays,Retired,Dec
+PINEDA,45,,21.55.39,7.02.00,2.4,8.5,Weekend,Professor,Jan
+CLINE,20,,23.33.07,8.27.12,4.6,8.5,Weekend,Streamer,Jan
+FRANCIS,33,Hawaii,0.24.23,8.39.45,2.5,6,Weekend,Cab Driver,Apr
+DUNN,20,Hartford,21.06.27,6.56.21,4.7,6,Weekend,Streamer,Jun
+PUGH,61,,20.33.43,6.54.00,4.5,6.5,Weekdays,Retired,Jun
+SUMMERS,43,,22.03.27,7.03.24,2.6,9,Weekend,Professor,Jan
+VO,25,,23.22.23,8.19.37,3.54,7.5,Weekdays,Cab Driver,Feb
+GILES,51,,22.00.40,7.06.20,2.1,8.5,Weekend,Retired,May
+SCHROEDER,23,,1.30.42,9.22.41,4,6.75,Weekend,Streamer,Mar
+WALTERS,29,,23.23.27,8.22.11,2.5,7,Weekdays,Cab Driver,Jun
+VILLEGAS,31,,23.36.19,8.30.56,3.7,6,Weekdays,Professor,Nov
+PARRISH,20,,23.34.07,8.28.22,3.25,6.5,Weekend,Streamer,Jul
+EATON,19,,23.38.43,8.33.44,4.5,7.5,Weekend,Streamer,May
+DYER,21,,23.38.55,8.33.58,6.5,5,Weekdays,Streamer,Apr
+MOYER,24,,21.30.50,8.32.48,4.1,6,Weekdays,Streamer,May
+SAMPSON,57,,20.34.25,7.08.00,2.5,8,Weekdays,Retired,Dec
+ANDRADE,49,,21.45.15,6.30.55,2.1,8.5,Weekdays,Cab Driver,Oct
+TURNER,22,DELLAS,21.30.02,6.30.07,4.5,8,Weekdays,Streamer,Dec
+GENTRY,38,,21.48.55,6.25.09,3,8.5,Weekdays,Professor,Dec
+NUNEZ,23,,21.11.15,7.01.36,3,7,Weekdays,Streamer,Oct
+BRYAN,38,,22.03.09,7.00.15,1,9,Weekend,Professor,Dec
+FRANCO,20,Sacramento,1.18.30,9.18.17,3.25,6,Weekend,Streamer,Jul
+FOX,18,,21.06.10,6.54.22,4,8.5,Weekend,Streamer,Oct
+ALVAREZ,24,,21.30.40,6.41.14,3.25,8.5,Weekend,Streamer,Jun
+ARMSTRONG,21,,21.06.43,6.58.13,4.25,7.5,Weekend,Streamer,Jun
+QUINTERO,40,,21.54.00,6.46.36,2.4,8.25,Weekdays,Cab Driver,May
+HOWE,49,,21.50.05,6.34.15,2.8,8,Weekend,Professor,Aug
+MORAN,30,,23.23.30,8.22.32,3,6,Weekdays,Professor,May
+DAVID,45,,21.46.55,6.48.00,3.1,9,Weekend,Professor,Oct
+BALLARD,36,,21.50.17,6.57.00,2,9.25,Weekend,Professor,Dec
+OCHOA,28,Colorado,0.19.18,8.39.40,3.5,7,Weekdays,Cab Driver,May
+HAYES,35,New York,23.22.23,8.06.37,4,9,Weekdays,Cab Driver,Oct
+PATRICK,49,,21.55.37,7.05.00,2.8,8,Weekend,Professor,Apr
+DAVIDSON,30,,22.34.02,8.02.49,3.5,7,Weekdays,Cab Driver,Apr
+AVERY,60,,20.33.37,6.33.00,0.8,10,Weekend,Retired,Dec
+HOUSTON,55,,22.03.30,7.33.24,3.4,9.5,Weekend,Cab Driver,Dec
+HAMILTON,24,Mississippi,22.41.06,7.49.00,4.5,8.5,Weekdays,Streamer,Oct
+WANG,27,,22.13.08,7.46.30,3,7.5,Weekend,Professor,Apr
+COHEN,31,,23.23.28,8.22.18,2.4,7,Weekdays,Cab Driver,Oct
+WILLIS,21,,21.38.42,7.00.12,4.25,8,Weekend,Streamer,Oct
+HIGGINS,21,,0.11.10,8.39.32,4.5,7,Weekend,Streamer,May
+LUCERO,60,,20.32.19,6.26.00,1.8,9,Weekdays,Retired,Dec
+SCHMIDT,25,,21.06.15,6.54.57,3.6,8,Weekend,Professor,Sep
+MCFARLAND,53,,21.51.20,6.44.00,2.5,9,Weekend,Retired,Apr
+SALGADO,37,,21.45.27,6.30.39,3.4,9,Weekend,Professor,Jan
+WONG,28,Denver,22.04.20,7.38.22,4.5,6,Weekdays,Professor,Aug
+LEONARD,28,,23.14.15,8.20.47,2.6,6,Weekdays,Professor,Apr
+COCHRAN,55,,22.03.39,7.14.00,2.6,7.5,Weekend,Retired,Jun
+MOON,38,,21.45.25,6.30.25,3.6,9.5,Weekdays,Cab Driver,Jan
+ROACH,47,,21.45.37,7.25.11,3.4,9.5,Weekend,Professor,Jan
+DUARTE,36,,21.49.05,6.26.27,2.4,8,Weekend,Professor,Oct
+MAYER,62,,20.33.49,6.56.00,1.6,9,Weekend,Retired,Oct
+NIXON,60,,20.30.55,6.30.00,1.2,10,Weekend,Retired,Dec
+KIM,27,,21.30.25,6.40.29,2,6.5,Weekend,Cab Driver,Jan
+DELACRUZ,21,,1.02.08,8.58.58,4,6,Weekdays,Streamer,Apr
+SKINNER,22,,23.27.25,8.20.33,3.56,8.5,Weekdays,Streamer,Feb
+GALLAGHER,20,,1.20.32,9.20.19,2.25,6,Weekend,Streamer,Nov
+FUENTES,27,,0.05.04,8.39.26,3.5,6,Weekdays,Professor,Feb
+CHAMBERS,21,,23.02.03,8.19.23,3.24,6,Weekdays,Streamer,Jun
+GLASS,41,,21.50.20,6.36.12,2,9,Weekend,Professor,Sep
+MORRIS,22,Indianapolis,21.30.10,6.30.39,4,9,Weekend,Streamer,Nov
+CHRISTENSEN,23,,0.44.43,8.40.19,3.4,7,Weekend,Streamer,Feb
+SNOW,18,,23.38.07,8.33.02,2.1,8.15,Weekend,Athlete,Jan
+BUSH,20,,0.01.04,8.36.04,2.4,7.2,Weekend,Athlete,Apr
+MARIN,47,,21.47.05,6.50.00,3.6,8,Weekdays,Cab Driver,Aug
+BOYLE,61,,20.32.25,6.28.00,2,7,Weekdays,Retired,Apr
+ZHANG,25,,1.13.25,9.13.12,4.25,7,Weekdays,Cab Driver,Feb
+FORD,23,,21.05.27,6.50.01,2.4,7.7,Weekend,Athlete,Oct
+MENDOZA,19,,21.30.36,6.41.02,4,6,Weekdays,Streamer,Feb
+SAWYER,22,,23.35.25,8.29.53,3.26,6,Weekdays,Streamer,Jun
+HOLLAND,23,,22.38.26,8.02.53,3,6,Weekdays,Streamer,Feb
+STRICKLAND,31,,1.35.47,9.23.26,4.6,6.75,Weekdays,Cab Driver,Sep
+CAIN,50,,21.55.35,7.37.00,2.7,9.25,Weekdays,Retired,Feb
+BRADLEY,20,,21.06.38,6.57.38,4,8,Weekend,Streamer,Oct
+GILL,21,,0.46.45,8.40.25,4,6,Weekend,Streamer,Dec
+FLOYD,52,,21.45.03,7.25.11,3.4,9.5,Weekend,Professor,Jan
+HANCOCK,30,,23.32.49,8.26.51,3.56,6,Weekend,Cab Driver,May
+TERRY,28,,23.23.38,8.23.28,4.5,6.25,Weekend,Cab Driver,Sep
+BRUCE,20,,23.28.19,8.21.36,3.24,7,Weekend,Streamer,Mar
+HUBER,22,,21.30.48,9.19.18,4.6,5.5,Weekend,Streamer,May
+JARAMILLO,31,,22.19.31,9.19.18,4.25,5.5,Weekdays,Professor,Apr
+RIOS,26,,21.48.44,7.01.01,4.25,7.5,Weekdays,Cab Driver,Apr
+ORTIZ,23,Annapolis,21.30.16,6.31.03,4,8.5,Weekdays,Streamer,Dec
+NAVARRO,32,,22.49.26,8.03.03,3.25,7,Weekdays,Cab Driver,Nov
+EVERETT,58,,20.33.25,6.33.00,1,10,Weekend,Retired,Nov
+CHAPMAN,23,,21.47.18,7.00.54,4,7,Weekend,Streamer,May
+VASQUEZ,21,,22.22.36,7.42.42,4,8.25,Weekend,Streamer,Nov
+STOKES,55,,21.50.11,6.55.00,2.6,8,Weekdays,Cab Driver,May
+CASEY,41,,21.45.02,6.30.07,2.6,8.5,Weekend,Professor,Nov
+SHAFFER,51,,22.03.18,7.07.00,2.4,8,Weekdays,Retired,May
+HOOVER,51,,21.55.37,7.35.45,1,9.5,Weekend,Professor,Nov
+SHANNON,39,,21.45.13,6.30.11,2.4,8.5,Weekdays,Cab Driver,Dec
+CORDOVA,41,,21.45.33,6.30.51,2,8,Weekdays,Cab Driver,Jan
+NEAL,25,Tallahassee,23.13.14,8.20.40,4.5,6.75,Weekdays,Cab Driver,Jan
+PETERSEN,55,,22.03.51,7.18.00,2.5,8,Weekend,Retired,Nov
+SHIELDS,23,,23.31.55,8.25.48,2.5,6.5,Weekdays,Streamer,Jun
+WOODWARD,30,,21.30.59,,3.56,6.5,Weekdays,Professor,Nov
+SPENCER,22,Tallahassee,21.06.29,6.56.35,3.5,6.5,Weekdays,Streamer,Jul
+HICKMAN,38,,21.53.20,6.45.57,0.1,8.5,Weekdays,Cab Driver,Feb
+CHARLES,44,,21.50.29,7.01.00,4.5,8.5,Weekend,Professor,Dec
+BUCK,55,,21.49.25,6.29.03,2.5,8.5,Weekend,Retired,Nov
+YODER,40,,22.03.57,7.10.24,2.6,8,Weekend,Professor,Jan
+VELASQUEZ,27,,0.09.08,8.39.30,4.6,6.5,Weekdays,Professor,Mar
+HAMPTON,32,,1.23.35,9.21.38,3.26,7,Weekdays,Cab Driver,Feb
+HOPKINS,25,,22.57.08,8.09.10,4.25,8,Weekend,Professor,Apr
+MCINTYRE,52,,21.47.15,6.52.00,3,9,Weekdays,Retired,Nov
+SHARP,25,Arizona,0.16.15,8.39.37,2.4,6.25,Weekdays,Professor,Apr
+SANDOVAL,19,,21.43.00,7.00.33,3,8,Weekdays,Streamer,Nov
+MCCLAIN,22,,23.36.55,8.31.38,4,7,Weekdays,Streamer,Jul
+ROBERTSON,18,,21.06.05,6.53.47,4.3,8.5,Weekend,Streamer,Oct
+ERICKSON,21,,0.01.55,8.39.21,6,7,Weekend,Streamer,Jun
+LIN,27,,0.13.12,8.39.34,3.75,6.25,Weekend,Cab Driver,Oct
+DOYLE,26,,0.52.51,8.41.41,4.25,7,Weekdays,Cab Driver,Oct
+LI,27,Sacramento,22.03.14,7.37.21,2.6,9,Weekdays,Cab Driver,Feb
+PRINCE,22,,23.39.01,8.34.05,4.5,8,Weekend,Streamer,Dec
+STOUT,37,,21.48.15,6.19.57,2.5,8.5,Weekend,Professor,Oct
+JOSEPH,29,,22.47.14,8.03.01,4.25,6.25,Weekdays,Professor,Apr
+KLINE,35,,21.45.31,6.30.47,2.4,9,Weekend,Professor,Feb
+BOYER,27,,23.32.19,8.26.16,3.6,7.25,Weekdays,Cab Driver,May
+GUTIERREZ,27,Augusta,21.30.15,6.30.59,3,8.5,Weekend,Professor,Dec
+BAILEY,24,Jackson,21.30.20,6.40.14,3.5,7.5,Weekdays,Cab Driver,Mar
+GREER,49,,22.03.24,7.02.24,2,8,Weekend,Professor,Dec
+DELACRUZ,21,,1.02.08,8.58.58,2.5,6.9,Weekdays,Athlete,Aug
+LEON,20,,23.23.40,8.23.42,2.2,6,Weekend,Streamer,Jun
+GLENN,20,,23.31.37,8.25.27,2.5,8.5,Weekend,Streamer,Oct
+BURNS,23,,21.05.45,6.51.27,4,8.25,Weekend,Streamer,Jan
+PARSONS,21,,1.39.51,9.24.02,3.2,7,Weekdays,Streamer,Jun
+LUNA,26,,22.30.44,8.02.46,4.5,9,Weekend,Professor,Nov
+JENKINS,24,Idaho,21.30.50,6.41.44,3.6,7.25,Weekend,Streamer,Apr
+KEMP,41,Little Rock,21.45.15,6.30.15,4.6,9,Weekdays,Cab Driver,Feb
+BENTON,57,,20.27.25,6.00.00,1.1,9.5,Weekend,Retired,Jan
+COLON,24,,1.38.50,9.23.53,3.5,7,Weekend,Streamer,Oct
+BISHOP,25,,22.28.46,7.26.10,2.25,6,Weekend,Cab Driver,Jan
+PATEL,26,,21.30.43,6.41.23,3,8.5,Weekend,Professor,Mar
+MATTHEWS,21,,21.32.58,6.59.44,4,6.5,Weekdays,Streamer,Jul
+HARMON,24,,0.49.48,8.40.34,3.25,6,Weekend,Streamer,May
+BOWERS,36,Denver,21.45.09,6.30.35,2.6,9,Weekend,Professor,Oct
+MCMAHON,65,,20.34.07,7.04.00,1.7,10.5,Weekend,Retired,Dec
+FINLEY,57,,20.20.25,7.45.00,1.4,9.5,Weekend,Retired,Dec
+ANTHONY,29,Idaho,23.26.31,8.19.30,2.5,8,Weekend,Professor,May
+DONOVAN,56,,20.31.07,6.02.00,1,8.5,Weekend,Retired,Jan
+MCCLURE,23,,23.37.49,8.32.41,3.5,6,Weekend,Streamer,Nov
+KNOX,50,,21.45.50,7.27.00,2.4,9.25,Weekdays,Cab Driver,Jan
+ALLISON,18,,23.29.19,8.22.46,6.5,7.5,Weekdays,Streamer,Dec
+MARQUEZ,20,,22.18.38,7.51.35,3.5,7.5,Weekdays,Streamer,Aug
+MAYNARD,29,,22.44.11,8.32.48,4.6,6,Weekend,Cab Driver,Nov
+MCCOY,20,,22.08.44,7.42.26,3.5,8.5,Weekend,Streamer,Dec
+ZAVALA,20,,23.31.25,8.25.13,2.5,7,Weekdays,Streamer,Nov
+DOMINGUEZ,30,Dover,22.04.06,7.18.02,4.5,8.5,Weekdays,Cab Driver,Jul
+CARPENTER,25,,21.40.08,7.00.19,4.5,8,Weekend,Professor,Dec
+WHITEHEAD,43,,21.46.25,6.42.00,2.2,8,Weekend,Professor,Nov
+MONTOYA,23,,1.02.09,8.59.59,3.5,6,Weekend,Streamer,Mar
+PITTS,20,,23.34.01,8.28.15,3,6,Weekdays,Streamer,May
+GUEVARA,20,,23.39.19,8.34.26,3.5,7,Weekdays,Streamer,May
+PACHECO,22,,0.30.29,8.39.51,2.5,6,Weekend,Streamer,Apr
+MORSE,52,,21.50.25,6.36.51,1.5,8,Weekdays,Retired,Jun
+CARR,19,Tallahassee,22.07.11,7.19.03,4.25,9,Weekend,Streamer,Dec
+CONWAY,38,,21.46.40,6.45.00,2.4,8,Weekend,Professor,May
+BREWER,33,,22.36.14,8.02.51,4,8,Weekend,Professor,Mar
+HUERTA,23,,23.38.13,8.33.09,2.25,6,Weekdays,Streamer,Jan
+VARGAS,19,,21.05.38,6.50.38,4,9,Weekend,Streamer,Nov
+BUCKLEY,55,,21.51.15,6.43.21,2.4,9,Weekend,Retired,Aug
+TATE,21,,1.08.20,9.08.07,3.6,7.25,Weekdays,Streamer,May
+VALENCIA,22,Phoenix,1.16.28,9.16.15,3.5,6,Weekend,Streamer,Mar
+BLACKBURN,57,,20.34.43,7.14.00,2.5,8,Weekend,Retired,Feb
+STEPHENS,21,,21.06.20,6.55.32,2.6,8.5,Weekend,Streamer,Sep
+MCKINNEY,25,,0.01.19,8.39.09,4.3,7.5,Weekend,Professor,Dec
+BELL,20,Kansas,21.30.54,6.49.06,4.5,7,Weekdays,Streamer,Apr
+SALAS,41,,21.45.11,6.30.43,3.6,8.5,Weekend,Professor,May
+CHOI,21,,23.32.13,8.26.09,2.5,7.5,Weekdays,Streamer,Mar
+PETERSON,20,St. Paul,21.30.19,6.40.11,4,8,Weekend,Streamer,Aug
+HUANG,34,,1.02.06,8.56.56,4.5,7.25,Weekdays,Cab Driver,Jun
+LARA,29,,0.01.31,8.39.13,3.25,6.25,Weekdays,Professor,Apr
+FAULKNER,28,,22.41.06,8.32.48,4.5,6,Weekdays,Professor,Aug
+ADKINS,20,Topeka,1.00.59,8.49.49,4,7.25,Weekdays,Streamer,Dec
+SWANSON,27,,0.35.34,8.39.56,2.25,7.25,Weekdays,Cab Driver,Mar
+LANE,19,,21.06.46,6.58.34,4,8.25,Weekdays,Streamer,Mar
+LARSEN,19,,23.14.15,8.20.12,2.5,7.5,Weekend,Streamer,Apr
+PORTILLO,53,,20.26.01,8.04.00,1.3,9,Weekend,Retired,Jun
+MARSH,41,,21.49.56,6.50.00,2.1,9.25,Weekend,Professor,Jan
+BURNETT,40,,21.55.41,6.28.05,2.3,9.5,Weekdays,Professor,Sep
+TYLER,38,,21.45.07,6.30.27,2.6,9,Weekend,Professor,Nov
+WEAVER,23,Denver,21.06.22,6.55.46,3.5,7,Weekend,Streamer,Mar
+HUGHES,27,,21.30.38,6.41.08,3,9,Weekdays,Cab Driver,Nov
+MEJIA,29,,22.32.56,8.02.48,3,8,Weekdays,Cab Driver,Sep
+YATES,49,,21.45.53,6.48.00,2.5,9,Weekend,Professor,Feb
+BALL,38,,21.45.06,7.25.23,2.5,9.5,Weekend,Professor,Dec
+NIELSEN,49,,21.49.15,6.27.45,2.6,8,Weekend,Professor,Oct
+RAMSEY,32,Georgia,0.23.22,8.39.44,2.5,6.25,Weekend,Cab Driver,Apr
+VILLA,25,,23.29.07,8.22.32,4.5,7,Weekdays,Cab Driver,Apr
+SANFORD,18,,23.19.20,8.12.13,2.6,8,Weekend,Streamer,Jul
+GOLDEN,23,,23.34.37,8.28.57,4.21,7,Weekdays,Streamer,May
+COOPER,18,Lansing,21.30.18,6.40.08,4.25,7,Weekend,Streamer,Mar
+COLE,35,New Mexico,23.21.22,8.06.30,4.5,8,Weekend,Professor,Jul
+PONCE,20,,23.34.13,8.28.29,4,6,Weekend,Streamer,Aug
+STUART,27,,22.38.01,7.14.00,2.6,8,Weekend,Professor,Sep
+PEARSON,20,,22.41.44,8.02.56,3,7,Weekend,Streamer,Jun
+FREDERICK,43,,21.51.10,6.42.42,2.3,8,Weekend,Professor,Jun
+SUTTON,33,,23.17.18,8.21.08,3.7,7.25,Weekdays,Cab Driver,Apr
+TRAN,27,,21.05.22,6.49.51,4.25,8,Weekdays,Cab Driver,Oct
+PADILLA,19,,22.25.14,7.57.41,4,6,Weekend,Streamer,May
+WILKERSON,32,,23.36.37,8.31.17,4.6,6,Weekdays,Professor,Jul
+ROBBINS,30,Delaware,0.21.20,8.39.42,4.6,6,Weekdays,Professor,May
+CALDWELL,24,,23.03.04,8.19.30,3.25,6,Weekdays,Streamer,May
+BRANDT,19,,22.28.46,7.14.00,2.5,7.5,Weekdays,Streamer,Aug
+HEBERT,38,,21.52.00,6.44.39,2.7,8,Weekend,Professor,Feb
+CROSBY,36,,22.02.00,7.08.22,2.6,9,Weekend,Professor,Feb
+TANNER,24,,23.35.37,8.30.07,4.5,7,Weekend,Cab Driver,May
+SLOAN,51,,21.48.25,6.21.15,2.8,9,Weekend,Retired,Apr
+POOLE,32,,23.12.13,8.19.58,3.75,8,Weekend,Professor,Oct
+MANN,26,,0.01.22,8.39.10,4.21,6,Weekdays,Professor,Apr
+CASTILLO,21,,21.30.41,6.41.17,3,7,Weekend,Professor,Aug
+GRAHAM,30,Missouri,22.44.11,7.50.03,4,7,Weekdays,Cab Driver,Jul
+HENSLEY,20,,23.31.31,8.25.20,2.5,8.25,Weekdays,Streamer,Aug
+DIAZ,23,Hartford,21.30.03,6.30.11,3,9,Weekend,Streamer,Nov
+MADDOX,21,,23.21.22,8.19.30,3.5,7.5,Weekdays,Streamer,May
+BULLOCK,55,,21.45.55,6.36.00,2.6,8,Weekend,Retired,Feb
+POWERS,22,Dover,23.12.13,8.20.33,6.5,6.25,Weekend,Streamer,Nov
+VAUGHN,26,,23.23.33,8.22.53,4.6,6.25,Weekend,Cab Driver,Apr
+GREENE,20,,21.54.28,7.01.29,3,9,Weekend,Professor,Feb
+BEIL,35,,22.03.33,7.12.00,1.2,7.5,Weekdays,Cab Driver,Oct
+CROSS,23,,0.31.30,8.39.52,3.6,7.25,Weekdays,Streamer,Sep
+WEBER,28,Dover,22.14.14,7.47.31,4,6,Weekdays,Professor,Oct
+MELENDEZ,30,,23.11.12,8.19.51,3.5,7.5,Weekdays,Cab Driver,Jan
+DAWSON,28,,0.01.28,8.39.12,3.24,6.5,Weekdays,Professor,Jul
+NORRIS,21,,23.22.23,8.21.43,4.5,6.25,Weekend,Streamer,Feb
+YORK,25,,23.28.55,8.22.18,3.26,8.5,Weekend,Professor,May
+MONTGOMERY,28,,22.31.51,7.27.11,4,6.5,Weekend,Cab Driver,Mar
+DECKER,37,,22.03.54,7.09.24,2.4,8,Weekend,Professor,Jun
+CALLAHAN,19,,23.32.55,8.26.58,4.25,8,Weekdays,Streamer,Aug
+DICKERSON,32,,23.30.37,8.24.17,2,8.5,Weekend,Professor,Dec
+NORTON,47,,21.45.45,6.44.00,2.6,9,Weekend,Professor,Feb
+RUIZ,21,,21.30.37,6.41.05,4.25,6.5,Weekend,Streamer,Jun
+CONNER,52,,21.45.19,6.31.00,2.2,8,Weekend,Retired,Nov
+DODSON,33,,21.30.42,8.32.48,3.5,6.5,Weekend,Cab Driver,Jun
+FINLEY,57,,20.20.25,7.45.00,2.5,7.1,Weekend,Athlete,May
+FLOWERS,55,,22.28.19,7.26.00,1,9,Weekend,Retired,Jul
+BEARD,29,,23.36.49,8.31.31,4.5,6,Weekdays,Professor,Aug
+LUCAS,20,,22.17.32,7.50.34,4,7,Weekdays,Streamer,Dec
+GALINDO,30,,22.47.16,8.32.48,4.5,6,Weekdays,Professor,May
+WOLFE,22,,0.01.10,8.38.06,4,6.25,Weekdays,Streamer,Apr
+LOWE,23,,23.10.11,8.20.19,4.5,7,Weekdays,Streamer,Aug
+VALENZUELA,53,,22.03.06,7.00.12,2.5,9,Weekend,Retired,Nov
+MEDINA,28,,21.05.23,6.49.53,3.5,7.5,Weekdays,Cab Driver,Feb
+SHEPARD,64,,20.34.01,6.34.00,1.4,10,Weekend,Retired,Dec
+RICHARDSON,18,Springfield,21.30.28,6.43.38,4.25,8,Weekend,Streamer,Oct
+DANIEL,19,,0.07.06,8.39.28,3.6,6.5,Weekdays,Streamer,Jun
+CAMPOS,25,,22.58.14,8.10.11,4.3,7,Weekdays,Cab Driver,Jun
+SANTOS,18,,21.06.36,6.57.24,2.6,9,Weekend,Streamer,Feb
+RICE,19,,21.06.14,6.54.50,3.26,9,Weekdays,Streamer,Mar
+DORSEY,52,,21.47.50,6.59.00,2.4,9,Weekend,Retired,Feb
+SOLOMON,18,,23.39.13,8.34.19,4,6,Weekend,Streamer,Jan
+COX,28,Honolulu,21.30.26,6.40.32,4,7,Weekdays,Cab Driver,Sep
+PRESTON,19,,23.38.19,8.33.16,4,6.75,Weekdays,Streamer,Aug
+DEJESUS,43,,21.47.00,6.49.00,3.5,8.5,Weekend,Professor,Apr
+MCDANIEL,30,,23.23.29,8.22.25,2.25,7.5,Weekdays,Cab Driver,Jun
+CHASE,19,,23.29.37,8.23.07,4,6,Weekdays,Streamer,Jan
+SALINAS,28,,0.04.03,8.39.25,4,6,Weekdays,Professor,Jun
+GIBSON,19,,23.23.26,8.06.58,3.5,9,Weekend,Streamer,Nov
+ESTES,23,,23.18.19,8.11.12,2.4,8.5,Weekend,Streamer,May
+JAMES,25,Baton Rouge,21.30.33,6.40.53,3,8.5,Weekend,Professor,May
+DUFFY,56,,20.35.01,7.20.00,2.5,8,Weekend,Retired,Feb
+FERNANDEZ,29,Topeka,21.05.32,6.50.11,2.6,7,Weekdays,Cab Driver,Sep
+GRAY,23,Annapolis,21.30.35,6.40.59,3.5,9,Weekend,Streamer,Nov
+BURGESS,18,,0.55.54,8.44.44,3.5,6,Weekdays,Streamer,Jul
+GILMORE,29,,23.36.07,8.30.42,4,6,Weekdays,Cab Driver,Apr
+ESPINOZA,21,,22.01.02,7.35.19,3,8.5,Weekdays,Streamer,May
+MCBRIDE,43,,21.45.37,6.40.00,3,8.5,Weekdays,Cab Driver,Mar
+MANNING,19,,0.45.44,8.40.22,3.25,6,Weekend,Streamer,Jul
+SHAH,38,,22.03.57,7.20.00,2.7,9,Weekend,Professor,Feb
+HENSON,18,,23.37.31,8.32.20,4.25,7,Weekdays,Streamer,Oct
+MORENO,32,New Hampshire,23.19.20,8.06.16,4.25,8,Weekend,Professor,Jan
+FISCHER,32,,1.02.05,8.55.55,6.5,7,Weekdays,Cab Driver,Aug
+ELLIOTT,23,,21.06.40,9.11.10,2.3,7.65,Weekend,Athlete,Mar
+ROMERO,28,Maryland,22.28.46,7.44.48,4,8,Weekdays,Cab Driver,Dec
+WALLS,40,,21.56.00,8.00.33,2,9.5,Weekend,Professor,Jan
+HARTMAN,37,,21.45.31,6.37.00,3.5,9.25,Weekdays,Cab Driver,Dec
+FELIX,61,,20.32.07,6.32.00,1.3,10,Weekend,Retired,Jan
+PALACIOS,43,,21.47.30,6.55.00,2.5,8,Weekdays,Cab Driver,Jun
+LOWERY,55,,21.48.20,6.20.36,2.4,8.25,Weekend,Retired,May
+BEST,58,,20.28.07,6.00.00,1.2,9.5,Weekend,Retired,Jan
+FERGUSON,19,,21.06.18,6.55.18,6.5,9,Weekend,Professor,Feb
+MCKEE,39,,21.46.45,6.46.00,2.5,9,Weekend,Professor,Feb
+MAHONEY,60,,20.31.19,6.06.00,1.3,8,Weekend,Retired,Apr
+WALL,29,,23.27.49,8.21.01,4.5,8,Weekdays,Cab Driver,May
+PHELPS,18,,23.30.25,8.24.03,3.5,8,Weekend,Streamer,Jun
+OCONNOR,20,Iowa,0.28.27,8.39.49,2.2,7,Weekdays,Streamer,Aug
+CUNNINGHAM,24,,21.06.41,6.57.59,3.5,6.5,Weekdays,Streamer,May
+HUMPHREY,20,,23.35.13,8.29.39,4,6,Weekdays,Streamer,May
+HUNTER,21,Dover,21.05.50,6.52.02,3,8,Weekdays,Streamer,Sep
+SELLERS,38,,21.49.35,6.30.21,2.5,8,Weekend,Professor,Mar
+CORONA,49,,21.51.05,6.42.03,2.4,7.5,Weekdays,Cab Driver,Dec
+REYNOLDS,19,Montana,22.47.16,7.51.06,4.5,7.5,Weekend,Streamer,Dec
+ZUNIGA,49,,22.04.03,7.01.24,3.6,8.25,Weekdays,Cab Driver,Oct
+WAGNER,35,,21.06.03,6.53.33,4.5,9,Weekend,Professor,Apr
+PARRA,29,,21.30.58,8.32.48,2.25,7.5,Weekend,Professor,Aug
+CONRAD,52,,22.00.00,7.05.19,2.2,8,Weekend,Retired,Nov
+FRANKLIN,23,,21.56.24,7.02.39,3,8,Weekend,Streamer,Oct
+MILES,22,,23.44.45,8.24.17,2.4,6,Weekdays,Streamer,Jan
+MCMILLAN,60,,20.31.49,6.16.00,1.6,8,Weekdays,Retired,Dec
+BUCHANAN,39,,21.45.01,6.30.03,2,9,Weekend,Professor,Nov
+MEYER,20,,21.06.13,6.54.43,4.5,8,Weekend,Streamer,Mar
+DRAKE,46,Little Rock,21.55.31,7.02.00,2.4,8.25,Weekdays,Cab Driver,Dec
+SNOW,18,,23.38.07,8.33.02,4,6.25,Weekdays,Streamer,Nov
+BANKS,25,,22.24.08,7.56.40,2,7,Weekdays,Cab Driver,Jun
+MURPHY,24,Topeka,21.30.12,6.30.47,4.5,7.5,Weekend,Streamer,Apr
+COOK,25,Frankfort,21.30.13,6.30.51,4.25,8,Weekend,Professor,Jun
+BRADY,22,Frankfort,1.02.00,8.50.50,4.5,6,Weekdays,Streamer,May
+COMBS,19,,23.27.07,8.20.12,2.4,7,Weekend,Streamer,Sep
+BLAIR,19,Indiana,0.27.26,8.39.48,2.5,7,Weekdays,Streamer,Jul
+HUFFMAN,19,,23.32.07,8.26.02,3.5,7,Weekend,Streamer,Dec
+FRANK,25,,1.40.52,9.24.11,3.6,7,Weekdays,Cab Driver,Sep
+JOHNSTON,19,,21.31.32,6.59.37,2,6,Weekdays,Streamer,Dec
+GRAVES,19,,0.01.01,8.35.03,3.56,6.25,Weekdays,Streamer,Apr
+STEWART,21,Springfield,21.30.09,6.30.35,4.25,8,Weekend,Streamer,Jul
+GILBERT,26,,22.47.16,7.32.16,4,7.5,Weekdays,Cab Driver,Mar
+MOSLEY,25,,23.37.43,8.32.34,4.21,7,Weekdays,Cab Driver,Nov
+KANE,32,,23.32.43,8.26.44,2.25,7,Weekdays,Cab Driver,Aug
+LESTER,51,,21.45.45,6.34.00,2.6,8,Weekend,Retired,Aug
+ROSARIO,23,,23.37.13,8.31.59,3.25,6.75,Weekend,Streamer,Jul
+VANG,25,,23.37.19,8.32.06,4,6,Weekdays,Professor,Mar
+WARE,19,,23.34.43,8.29.04,3.5,7.25,Weekend,Streamer,Dec
+MATHIS,18,,23.27.13,8.20.19,2.35,7.5,Weekdays,Streamer,Apr
+MATA,25,,23.37.07,8.31.52,3,6.25,Weekdays,Professor,Dec
+TOWNSEND,18,,1.24.36,9.21.47,3.6,7,Weekdays,Streamer,Feb
+REED,26,Jefferson City,21.30.21,6.40.17,3,9,Weekend,Professor,Nov
+HINES,29,,1.03.15,9.03.02,2.4,6.5,Weekend,Professor,Mar
+KELLEY,21,Dover,21.06.28,6.56.28,4.5,6,Weekend,Streamer,Feb
+RILEY,18,,21.09.41,6.58.41,4.5,8.5,Weekend,Streamer,Dec
+LAMB,53,,22.03.21,7.08.00,2,8,Weekend,Retired,Feb
+VEGA,22,,22.25.41,8.32.48,2.2,8.05,Weekdays,Athlete,Feb
+STANLEY,29,,22.56.02,8.08.09,4.5,7,Weekdays,Cab Driver,Apr
+FRIEDMAN,59,,20.35.07,6.35.00,1.2,10,Weekend,Retired,Mar
+UNDERWOOD,36,,22.03.18,7.00.24,4.5,8.5,Weekend,Professor,Apr
+SULLIVAN,23,Iowa,21.30.53,6.49.01,4,7,Weekdays,Streamer,Mar
+ROSS,18,,21.30.46,6.41.32,4.25,6.5,Weekdays,Streamer,Oct
+MICHAEL,41,,21.59.20,6.51.48,2.3,8,Weekend,Professor,Dec
+CLAY,23,,23.35.31,8.30.00,3.6,6.25,Weekdays,Streamer,Jul
+DELGADO,19,,21.21.21,6.59.09,3,8,Weekdays,Streamer,Jan
+HARVEY,33,,22.41.06,7.30.14,3.6,8,Weekend,Professor,Sep
